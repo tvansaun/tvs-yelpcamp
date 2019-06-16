@@ -1,6 +1,7 @@
 const express    = require("express"),
 	  router     = express.Router(),
 	  Campground = require("../models/campground"),
+	  Comment    = require("../models/comment"),
 	  Review     = require("../models/review"),
 	  middleware = require("../middleware");
 
