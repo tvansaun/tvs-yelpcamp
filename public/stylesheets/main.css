@@ -1,0 +1,38 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+}
+
+.delete-form {
+	display: inline;
+}
+
+/* GOOGLE MAPS */
+#map {
+	height: 400px;
+	width: 100%;
+}
+
+.footer {
+	height: 60px;
+	margin: 20px auto;
+}
+
+body {
+	background-color: #e2edff;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+.checked {
+    color: orange;
+}
