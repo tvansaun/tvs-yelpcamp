@@ -52,7 +52,7 @@ app.use(function(req, res, next){
 });
 
 app.use("/", indexRoutes);
-app.useq("/campgrounds", campgroundRoutes);
+app.use("/campgrounds", campgroundRoutes);
 app.use("/campgrounds/:id/comments", commentRoutes);
 app.use("/campgrounds/:id/reviews", reviewRoutes);
 
