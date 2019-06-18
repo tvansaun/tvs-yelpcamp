@@ -12,18 +12,27 @@ Check out the app [here](tvs-yelpcamp.herokuapp.com)
 * RESTful routes
 
 ## Getting started
+
 > This app contains API keys that have been hidden, if being run on your local machine some features may not be present.
+
 **Clone the repository**
+
 ` git clone https://github.com/tvansaun/tvs-yelpcamp.git `
+
 **Install Dependencies**
+
 ` npm install `
 
 ## Built With
+
 **Front-End**
+
 * ejs
 * Bootstrap
 * Google Maps API
+
 **Back-End**
+
 * Express
 * MongoDB
 * Mongoose
